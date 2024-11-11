@@ -1,1 +1,11 @@
-
+{
+  "description": "I Make Cool Games!",
+  "repo": "https://github.com/Mast3rM0ds/register",
+  "owner": {
+    "username": "Mast3rM0ds",
+    "email": "adriantell6@gmail.com"
+  },
+  "record": {
+    "URL": "https://is-a.dev/docs"
+  }
+}
